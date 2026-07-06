@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+score2musicxml/__init__.py
+score2musicxml/cli.py
+score2musicxml/instruments.py
+score2musicxml/merge.py
+score2musicxml/pdf_to_images.py
+score2musicxml/pipeline.py
+score2musicxml/postprocess.py
+score2musicxml/recognize.py
+score2musicxml.egg-info/PKG-INFO
+score2musicxml.egg-info/SOURCES.txt
+score2musicxml.egg-info/dependency_links.txt
+score2musicxml.egg-info/entry_points.txt
+score2musicxml.egg-info/requires.txt
+score2musicxml.egg-info/top_level.txt

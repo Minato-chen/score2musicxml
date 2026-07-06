@@ -1,0 +1,20 @@
+[project]
+name = "score2musicxml"
+version = "0.1.0"
+description = "Recognize single-part wind instrument sheet music (PDF or photo) and export MusicXML for MuseScore."
+requires-python = ">=3.11,<3.16"
+dependencies = [
+    "homr==0.7.0",
+    "pymupdf==1.28.0",
+    "music21==10.5.0",
+]
+
+[project.scripts]
+score2musicxml = "score2musicxml.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["score2musicxml*"]

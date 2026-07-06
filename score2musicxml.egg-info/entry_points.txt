@@ -1,0 +1,2 @@
+[console_scripts]
+score2musicxml = score2musicxml.cli:main
