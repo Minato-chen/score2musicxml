@@ -1,6 +1,6 @@
 # score2musicxml
 
-把单个管乐器的单声部乐谱（PDF或图片）识别成 MusicXML，方便直接拖进 MuseScore 编辑。
+利用agent基于homr把单个管乐器的单声部乐谱（PDF或图片）识别成 MusicXML，方便直接拖进 MuseScore 编辑。
 
 ## 适用范围（V1）
 
