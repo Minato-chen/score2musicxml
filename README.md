@@ -24,8 +24,8 @@ pip install -e .
 homr --init                    # 提前下载识别模型（几百MB），非必需但能避免首次运行卡住
 ```
 
-```bash
-#win powershell
+#windows
+```powershell
 python -m venv .venv       # 或其他 3.11-3.15 版本
 .venv\Scripts\Activate.ps1
 pip install -e .
