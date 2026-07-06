@@ -1,0 +1,2 @@
+# score2musicxml
+利用homr将乐谱转化为musehub可以读取的musicxml
